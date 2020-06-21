@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mbmail/static/css/main.5f361e03.chunk.css",
+    "main.js": "/mbmail/static/js/main.82c6183e.chunk.js",
+    "main.js.map": "/mbmail/static/js/main.82c6183e.chunk.js.map",
+    "runtime-main.js": "/mbmail/static/js/runtime-main.98f5b355.js",
+    "runtime-main.js.map": "/mbmail/static/js/runtime-main.98f5b355.js.map",
+    "static/js/2.f939c634.chunk.js": "/mbmail/static/js/2.f939c634.chunk.js",
+    "static/js/2.f939c634.chunk.js.map": "/mbmail/static/js/2.f939c634.chunk.js.map",
+    "index.html": "/mbmail/index.html",
+    "precache-manifest.a6cc2841afdb50ef2aef04495790cda2.js": "/mbmail/precache-manifest.a6cc2841afdb50ef2aef04495790cda2.js",
+    "service-worker.js": "/mbmail/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/mbmail/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f939c634.chunk.js.LICENSE.txt": "/mbmail/static/js/2.f939c634.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/mbmail/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98f5b355.js",
+    "static/js/2.f939c634.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.82c6183e.chunk.js"
+  ]
+}
